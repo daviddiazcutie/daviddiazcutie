@@ -17,4 +17,4 @@ Actively taking the Google Data Analytics Professional Certificate, and DataCamp
 🔹 Data visualisation: Tableau
 
 🔌 Connect:
-[ LinkedIn ] (linkedin.com/in/david-diaz-cutie-20b187227)
+[LinkedIn](linkedin.com/in/david-diaz-cutie-20b187227)
