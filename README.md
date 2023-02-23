@@ -19,3 +19,4 @@ Actively taking the Google Data Analytics Professional Certificate, and DataCamp
 
 ### 🔌 Connect
 [LinkedIn](https://www.linkedin.com/in/david-diaz-cutie/)
+[Kaggle](https://www.kaggle.com/daviddcutie)
