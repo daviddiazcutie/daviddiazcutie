@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-AboutAbout
 🕵️‍♂️Introducing Myself
 A former student of Software Development, working as a Web Developer, I started developing a passion for working with data in the mid of my career.
 
