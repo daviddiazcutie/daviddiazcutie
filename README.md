@@ -13,9 +13,9 @@ Actively taking the Google Data Analytics Professional Certificate, and DataCamp
 
 ### 🔩 Tech stack
 
--🔹 Relational databases: MySQL, SQL Server, BigQuery.
--🔹 Spreadsheets: Microsoft Excel, Google Sheets.
--🔹 Data visualisation: Tableau
+-  Relational databases: MySQL, SQL Server, BigQuery.
+-  Spreadsheets: Microsoft Excel, Google Sheets.
+-  Data visualisation: Tableau
 
 ### 🔌 Connect
 [LinkedIn](linkedin.com/in/david-diaz-cutie-20b187227)
