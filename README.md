@@ -18,5 +18,5 @@ Actively taking the Google Data Analytics Professional Certificate, and DataCamp
 -  Data visualisation: Tableau
 
 ### 🔌 Connect
-[LinkedIn](https://www.linkedin.com/in/david-diaz-cutie/)
-[Kaggle](https://www.kaggle.com/daviddcutie)
+- [LinkedIn](https://www.linkedin.com/in/david-diaz-cutie/)
+- [Kaggle](https://www.kaggle.com/daviddcutie)
