@@ -1,21 +1,17 @@
+🕵️‍♂️ Introducing Myself
 
-## 🕵️‍♂️Introducing Myself
+A former student with a background in Software Development, I've transitioned my career into the Help Desk Support field. I'm passionate about providing top-notch assistance and solving technical challenges for users.
 
-A former student of Software Development, working as a Web Developer, I started developing a passion for working with data in the mid of my career.
+📓 What's my future career path?
 
-Making a shift currently to the data analytics field through self-thought development, online courses, and hands-on projects.
+My dedication to helping users and troubleshooting technical issues has led me to excel in the Help Desk Support role. I'm committed to ensuring smooth operations, resolving problems promptly, and delivering exceptional customer service.
 
-### 📓 What's my future career path?
+🔩 Tech Skills:
 
-My love for analyzing data and uncovering insights led me to explore the world of analytics. With a foundation in SQL, I thrive on designing and optimizing data models and queries, ensuring accurate and actionable results for data-driven decision-making.
-
-Actively taking the Google Data Analytics Professional Certificate, and DataCamp courses in SQL and Python.
-
-### 🔩 Tech stack
-
--  Relational databases: MySQL, SQL Server, BigQuery.
--  Spreadsheets: Microsoft Excel, Google Sheets.
--  Data visualisation: Tableau
+🔹 Troubleshooting hardware and software issues.
+🔹 User support and problem resolution.
+🔹 IT ticketing systems.
+🔹 Microsoft and basic networking knowledge.
 
 ### 🔌 Connect
 - [LinkedIn](https://www.linkedin.com/in/david-diaz-cutie/)
